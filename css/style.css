@@ -567,3 +567,10 @@ justify-content: space-evenly;
     border: none;
     padding: 0.3rem;
 }
+
+.btn-orcamento{
+    text-transform: uppercase;
+    padding: 1rem;
+    cursor: pointer;
+    grid-column: 2;
+}
